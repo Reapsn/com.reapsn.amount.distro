@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+.wTitle {
+	padding-top: 20px;
+	padding-bottom: 2px;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.wContent {
+	
+}
+
+.wFooter {
+	padding-top: 20px;
+	padding-bottom: 2px;
+	text-align: center;
+}
+
+.border-table {
+	width: 100%;
+	border-collapse: collapse;
+	border: none;
+}
+
+.border-table td {
+	border: solid #000000 1px;
+}
+
+.border-table th {
+	border: solid #000000 1px;
+}
